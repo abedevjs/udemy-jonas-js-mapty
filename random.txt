@@ -1,0 +1,9 @@
+coords: GeolocationCoordinates
+accuracy: 19.53
+altitude: null
+altitudeAccuracy: null
+heading: null
+latitude: 1.7521741
+longitude: 127.9933646
+
+https://www.google.com/maps/@1.47456,124.84608,12z
